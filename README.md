@@ -25,3 +25,8 @@ Create a phyton file.
 A just paste and write text.
 
 Result this url (Copy and Paste)
+
+Copy code moment:
+```js
+wait moment
+```
