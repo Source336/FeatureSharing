@@ -1,1 +1,1 @@
-WorkFeatureShareConnection(".feature-sharing", document.URL, "Work", "This a web feature sharing.", "Come on!")
+new WorkFeatureShareConnection(".feature-sharing", document.URL, "Work", "This a web feature sharing.", "Come on!")
